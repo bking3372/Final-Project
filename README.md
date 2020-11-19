@@ -15,8 +15,28 @@ Key data variables included:
 -  Size of the fire (in acres)
 -  Owner:  primary owner or entity responsible for managing the land at the point of origin of the fire (i.e., private vs federal/state land)
 
+
+**Data Preprocessing**
+
+Prior to analysis, the data was preprocessed as follows:
+- Extrameous variables were eliminated (i.e., reporting agency, fire name, etc.)
+- Additional variables were calculated:
+  -  Duration of the fire (containment date - discovery date)
+  -  Month and day of week when the fire was discovered
+- Null values were removed
+- Categorical variables were dummy coded
+
+
+**Exploratory Analysis**
+
+To better understand the data before starting the machine learning, an expoloration of the data was conducted in Tableau.  Key observations include:
+
+
+**Machien Learning Classification**
+
 Machine learning was employed to determine if wildfires could be classified by how they were caused:
 -  Naturally (i.e., lightning)
 -  Accidentally (i.e., debris burning, campfires, fireworks, etc.)
 -  Intentionally (i.e., arson)
+
 
