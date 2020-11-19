@@ -5,6 +5,7 @@
 
 A web application for the visualizations and machine learning classification results for this analysis can be viewed here:  
 
+### Background
 
 An analysis was conducted on US wildfires that occured over a 24 year period to uncover trends in the data and build a model for classifying wildfire causes.  This data included 1.88 million geo-referenced wildfires occuring in the US between 1992 and 2015, representing a total of 140 million acres burned during this period.
 
