@@ -16,7 +16,7 @@ Key data variables included:
 -  Owner:  primary owner or entity responsible for managing the land at the point of origin of the fire (i.e., private vs federal/state land)
 
 
-**Data Preprocessing**
+### Data Preprocessing
 
 Prior to analysis, the data was preprocessed as follows:
 - Extrameous variables were eliminated (i.e., reporting agency, fire name, etc.)
@@ -27,12 +27,12 @@ Prior to analysis, the data was preprocessed as follows:
 - Categorical variables were dummy coded
 
 
-**Exploratory Analysis**
+### Exploratory Analysis
 
 To better understand the data before starting the machine learning, an expoloration of the data was conducted in Tableau.  Key observations include:
 
 
-**Machien Learning Classification**
+### Machine Learning Classification
 
 Machine learning was employed to determine if wildfires could be classified by how they were caused:
 -  Naturally (i.e., lightning)
