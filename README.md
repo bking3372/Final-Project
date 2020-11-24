@@ -1,7 +1,7 @@
 # Classifying US Wildfire Causes
 
 ![Wildfire Image](https://github.com/bking3372/US-Wildfire-Analysis/blob/main/images/Wildfires4.jpg)
-## Using Machine Learning to Classify Wildfire Causes
+## An Analysis of US Wildfires using Machine Learning to Classify Wildfire Causes
 
 A web application for the visualizations and machine learning classification results for this analysis can be viewed here: [US Wildfire Analysis](https://bking3372.github.io/)
 
